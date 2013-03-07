@@ -1,4 +1,4 @@
 test
 ====
 
-testing gists with sweave
+Testing gists with sweave.
